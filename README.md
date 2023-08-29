@@ -13,6 +13,6 @@ Usage:
 `helm search repo ansible`
 
 ### Install
-`helm install <local-name> <repo-name>'
+`helm install <local-name> <repo-name>`
 
 `helm install ansible ansible-repo/ansible`
